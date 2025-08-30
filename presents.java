@@ -14,6 +14,7 @@ public class presents {
         }
         for(int i=1;i<=n;i++){
             System.out.print(ans[i]+" ");
+
         }
     }
 }
